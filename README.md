@@ -56,11 +56,11 @@ These working MVPs were created by participants during the AI-Assisted Digital P
 
 ### 7. QR Business Card Platform
 
-- **Participant Name:** Not provided
+- **Participant Name:** Toe Wai Lyun
 - **Project Name:** QR Business Card Platform
 - **Project Description:** A platform for creating and managing dynamic QR business cards that can be updated without reprinting. It supports downloadable contact cards and scan analytics for customer profiles.
 - **Live Demo:** [business-card-beta-sooty.vercel.app](https://business-card-beta-sooty.vercel.app/)
-- **Source Code:** Not provided
+- **Source Code:** [github.com/toewailyun9-dot/business-card](https://github.com/toewailyun9-dot/business-card)
 
 ### 8. StudioOps
 
